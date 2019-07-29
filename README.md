@@ -1,0 +1,2 @@
+# Clearone
+Clearone config files
